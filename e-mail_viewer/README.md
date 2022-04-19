@@ -1,2 +1,2 @@
-# e-mail_viewer
-Visualizador de arquivos de e-mail
+# E-mail_viewer
+Visualizador de arquivos de e-mail local
