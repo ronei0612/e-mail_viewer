@@ -1,2 +1,2 @@
 # E-mail_viewer
-Visualizador de arquivos de e-mail local
+Application to read old emails from Outlook Express (discontinued)
