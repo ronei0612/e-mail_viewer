@@ -1,2 +1,2 @@
 # E-mail_viewer
-Application to read old emails from Outlook Express (discontinued)
+Application to read old emails from MS Outlook Express (discontinued)
